@@ -8,3 +8,5 @@ Download ```Dataset.zip , Dataset.z0{1,2,3,4,5..12} FILES``` and extract the Dat
 
 
 Waste_Segmentation_Dataset_Link: https://drive.google.com/file/d/1o6RuliAXPmmFyq0esDa5--zGH16iSs2K/view?usp=sharing
+
+Dustbin_Angle_Classification: https://drive.google.com/file/d/1pnSzSGkDCR8KBxii4r7jO3ZPsM-VU0IC/view?usp=sharing
